@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/princeljf/app.git",
+  "author": "princeljf <384234884@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "create-vite-app": "^1.18.0"
+  }
+}
